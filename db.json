@@ -1,0 +1,36 @@
+{
+    "cursos": [{
+            "id": 1,
+
+            "title": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/f8016461-72f6-40c9-adba-9186b240748b.png",
+            "price": "50 usd",
+            "profesor": "Beto Quiroga"
+        },
+        {
+            "id": 2,
+            "title": "go desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
+            "price": "10 usd",
+            "profesor": "camilo"
+        },
+
+        {
+            "id": 3,
+            "title": "flutter desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/4feb100b-5d47-4daf-b421-9983c5ecdfa8.png",
+            "price": "50 usd",
+            "profesor": "steven"
+        },
+
+        {
+            "id": 4,
+            "title": "dark desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/4c858734-9c72-45db-84ca-eb9e79cbe8df.png",
+            "price": "30 usd",
+            "profesor": "antonio"
+        },
+
+    ]
+
+}
